@@ -7,17 +7,23 @@ Este repositório contém o código e os arquivos relacionados ao Relatório de 
 ![4](https://github.com/user-attachments/assets/b034ae49-5d87-4ba1-a613-9f44a17b56ff)
 
 Funcionalidades
+
 Faturamento Total: Visualização clara do faturamento total de todos os projetos.
+
 Rentabilidade dos Projetos: Identificação dos projetos mais e menos rentáveis.
+
 Análise de Prejuízo: Detecção de projetos que apresentaram prejuízo.
+
 Margem de Lucro por Cargo: Cálculo da margem de lucro para cada cargo envolvido nos projetos.
-Dashboard
-O dashboard inclui:
 
 Cards:
+
 Quantidade total de projetos da carteira
+
 Quantidade total de municípios da carteira
+
 Faturamento
+
 Custos Totais
 Filtros:
 Data e/ou Linha do Tempo
